@@ -25,7 +25,7 @@
                         <manifest>
                             <addClasspath>true</addClasspath>
                             <classpathPrefix>lib/</classpathPrefix>
-                            <mainClass>Test</mainClass>
+                            <mainClass>HolaMundo</mainClass>
                         </manifest>
                     </archive>
                 </configuration>
